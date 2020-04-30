@@ -68,8 +68,8 @@
         "package": "XcodeProj",
         "repositoryURL": "https://github.com/mattrobmattrob/XcodeProj.git",
         "state": {
-          "branch": "master",
-          "revision": "e3165bcacdc8c8081bcde3a5cbd3025653072879",
+          "branch": "mr/fix.spm.linux",
+          "revision": "ef6b064fdd3364f3fdc5ff7c908dc19843463115",
           "version": null
         }
       },
